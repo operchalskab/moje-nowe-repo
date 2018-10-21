@@ -5,3 +5,4 @@ To jest testowe repozytorium
 
 ## Uwaga ważne
 To jest testowe repozytorium
+Dodałam nowy plik tekstowy
